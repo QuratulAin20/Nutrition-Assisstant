@@ -1,7 +1,5 @@
 # Nutrition-Assisstant
 
-You can watch the demo video here: [Watch the video](https://github.com/QuratulAin20/Nutrition-Assisstant/blob/main/App-Video.mp4)
-
 The Nutritionist is a Streamlit application that aids its users in computing the nutritional value and calories of certain food items from pictures. The application uses Google’s generative AI, in particular the Gemini model, effectively to ascertain the nutrition composition of food images uploaded by users.
 
 ## Key Features:
